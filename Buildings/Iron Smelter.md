@@ -1,15 +1,12 @@
-<%*
-let building = await tp.system.prompt("What is the name of the building?");
-await tp.file.rename(building)
-%>---
+---
 type: building
-produces: 
-science: 
-tags: 
+produces:
+science:
+tags:
   - 
 ---
 
-# <% building %>
+# Iron Smelter
 
 ### 🛠️ Construction Cost
 - **Cost 1: ** 

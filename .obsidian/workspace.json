@@ -4,96 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4932502883af235a",
-        "type": "split",
+        "id": "9258df3a231633f8",
+        "type": "tabs",
         "children": [
           {
-            "id": "9258df3a231633f8",
-            "type": "tabs",
-            "dimension": 52.916666666666664,
-            "children": [
-              {
-                "id": "1eb6222a6d86ca9d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Resource Template - old.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Resource Template - old"
-                }
+            "id": "c255e0ede877f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buildings/Gear Press.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "3f3aae22cd33ce7d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Factory MOC.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Factory MOC"
-                }
-              }
-            ]
-          },
-          {
-            "id": "5b4170896b34511f",
-            "type": "tabs",
-            "dimension": 47.083333333333336,
-            "children": [
-              {
-                "id": "c255e0ede877f5c8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Factory MOC.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Factory MOC"
-                }
-              },
-              {
-                "id": "b70fc9c074a04100",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "templates/building template.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "building template"
-                }
-              },
-              {
-                "id": "f737f2faabcb9113",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "templates/resource template.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "resource template"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "Gear Press"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/building template.md",
+                "file": "templates/Resource Template - old.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for building template"
+              "title": "Backlinks for Resource Template - old"
             }
           },
           {
@@ -185,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/building template.md",
+                "file": "templates/Resource Template - old.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from building template"
+              "title": "Outgoing links from Resource Template - old"
             }
           },
           {
@@ -228,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/building template.md",
+                "file": "templates/Resource Template - old.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of building template"
+              "title": "Outline of Resource Template - old"
             }
           }
         ]
@@ -258,15 +186,26 @@
   },
   "active": "50d57d9c2889cbd7",
   "lastOpenFiles": [
-    "Resources",
-    "templates/resource template.md",
-    "templates/building template.md",
-    "Resource Template - old.md",
-    "Buildings/Iron Ore.md",
+    "Buildings/Coal Miner.md",
     "Factory MOC.md",
-    "Buildings/stone.md",
+    "Buildings/Gear Press.md",
+    "Buildings/Coal Power Plant.md",
+    "templates/Resource Template - old.md",
+    "Buildings/Stone Miner.md",
+    "Buildings/Iron Miner.md",
+    "Buildings/Iron Smelter.md",
+    "Resources/Iron Plates.md",
+    "Resources/Bricks.md",
+    "Resources/Iron Ore.md",
+    "Resources/Coal.md",
+    "Resources/Stone.md",
+    "templates/resource template.md",
     "Buildings/Kiln.md",
+    "templates/building template.md",
     "Buildings/Untitled 1.md",
+    "Resources",
+    "Buildings/Iron Ore.md",
+    "Buildings/stone.md",
     "Buildings/Stone.md",
     "Buildings",
     "templates",
