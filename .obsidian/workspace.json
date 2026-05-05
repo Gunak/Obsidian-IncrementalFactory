@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "68bec37bda990a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4932502883af235a",
+        "type": "split",
+        "children": [
+          {
+            "id": "9258df3a231633f8",
+            "type": "tabs",
+            "dimension": 52.916666666666664,
+            "children": [
+              {
+                "id": "1eb6222a6d86ca9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Resource Template - old.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Resource Template - old"
+                }
+              },
+              {
+                "id": "3f3aae22cd33ce7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Factory MOC.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Factory MOC"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5b4170896b34511f",
+            "type": "tabs",
+            "dimension": 47.083333333333336,
+            "children": [
+              {
+                "id": "c255e0ede877f5c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Factory MOC.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Factory MOC"
+                }
+              },
+              {
+                "id": "b70fc9c074a04100",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "templates/building template.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "building template"
+                }
+              },
+              {
+                "id": "f737f2faabcb9113",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "templates/resource template.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "resource template"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38adab1b880641f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3c5309b2d9beb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50d57d9c2889cbd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "985daf75387be6eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8844451e238bcee6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8b8224d1ea6b7bda",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e3cf51c816cad70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8de4ac30c3602de9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/building template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for building template"
+            }
+          },
+          {
+            "id": "c2fc36aaf5942e0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/building template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from building template"
+            }
+          },
+          {
+            "id": "9e7de24a165dbfa0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca509dd8a044ea07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f2786efdce8ae39a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/building template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of building template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "50d57d9c2889cbd7",
+  "lastOpenFiles": [
+    "Resources",
+    "templates/resource template.md",
+    "templates/building template.md",
+    "Resource Template - old.md",
+    "Buildings/Iron Ore.md",
+    "Factory MOC.md",
+    "Buildings/stone.md",
+    "Buildings/Kiln.md",
+    "Buildings/Untitled 1.md",
+    "Buildings/Stone.md",
+    "Buildings",
+    "templates",
+    "Welcome.md"
+  ]
+}

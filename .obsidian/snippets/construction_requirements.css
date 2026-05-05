@@ -1,0 +1,5 @@
+TABLE
+    (cost_a_val + " " + cost_a_type) AS "Cost 1"
+    (cost_b_val + " " + cost_b_type) AS "Cost 2"
+FROM #resources
+WHERE cost_a_type != null
